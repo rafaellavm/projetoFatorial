@@ -9,7 +9,7 @@ public class Fatorial
 		for (int i = 2; i<= n; i++)
 			resultado*= i;
 			return resultado;
-		
+		//comentário aqui
 		
 	}
 
